@@ -15,10 +15,10 @@ Our projects are crafted by highly certified engineers and are designed to tackl
 
 ### Contact Us
 
-- **Phone**: (720) 797-9499
 - **Email**:
   - Support: [support@rocketman.tech](mailto:support@rocketman.tech)
   - Sales: [sales@rocketman.tech](mailto:sales@rocketman.tech)
   - Hiring: [jobs@rocketman.tech](mailto:jobs@rocketman.tech)
   - General: [info@rocketman.tech](mailto:info@rocketman.tech)
+- **Phone**: (720) 797-9499
 - **Address**: 1919 14th St #700, Boulder, CO 80302
