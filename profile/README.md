@@ -1,7 +1,6 @@
 Rocketman Tech develops tools to streamline Jamf management and deployment for businesses, schools, and healthcare providers alike. Our certified engineers enhance Jamf Pro’s capabilities to simplify secure, efficient Apple device integration.
 
 ## Learn More
-- **[Rocketman Command Center](https://www.rocketman.tech/rocketman-command-center)**
 - **[LaunchPad](https://www.rocketman.tech/launchpad)**
 - **[Blog](https://www.rocketman.tech/blog)**
 - **[Services](https://www.rocketman.tech/services)**
